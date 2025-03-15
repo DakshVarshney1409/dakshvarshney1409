@@ -74,7 +74,6 @@
 ###
 
 <p align="left">I am always looking forward to interact with new buds, let's connect</p>
-![download](https://github.com/user-attachments/assets/c4deae76-7c93-410d-b1d0-bca8e03423b0)
 
 ###
 
