@@ -73,11 +73,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dakshvarshney1409/dakshvarshney1409/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
 <p align="left">I am always looking forward to interact with new buds, let's connect</p>
+![download](https://github.com/user-attachments/assets/c4deae76-7c93-410d-b1d0-bca8e03423b0)
 
 ###
 
