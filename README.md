@@ -64,13 +64,13 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DakshVarshney1409&bg_color=2d2f2f&color=4327d3&line=14aec2&point=7162df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DakshVarshney1409&bg_color=2d2f2f&color=4327d3&line=14aec2&point=7162df&area=true&hide_border=true&height=150)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshvarshney1409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshvarshney1409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
