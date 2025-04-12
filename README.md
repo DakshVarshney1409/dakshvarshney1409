@@ -64,11 +64,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DakshVarshney1409&theme=react-dark)
-
-<div align="center">
-  <img src= "https://github-readme-activity-graph.cyclic.app/graph?username=DakshVarshney1409&theme=react-dark"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DakshVarshney1409&bg_color=2d2f2f&color=4327d3&line=14aec2&point=7162df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ###
