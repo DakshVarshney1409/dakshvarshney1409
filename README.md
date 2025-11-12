@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">I'm Daksh Varshney from India.<br><br>- 🔭 I’m working as AI/ML Engineer at Jaguar Land Rover <br>- 📚 I'm currently learning Generative and Responsible AI<br>- ⚡ In my free time I do Algorithmic and Systematic Trading</p>
+<p align="left">I'm Daksh Varshney from India.</p>
 
 ###
 
-<p align="left">I am always looking forward to interact with new buds, let's connect</p>
+<p align="left">I am always looking forward to interact with you, let's connect</p>
 
 ###
 
